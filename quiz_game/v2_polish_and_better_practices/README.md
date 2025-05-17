@@ -70,17 +70,3 @@ def game_status():
 ```
 
 Now it's foolproof!
-
----
-
-### 4. ✅ Clean Up Terminal Logic
-
-Instead of sending `clear_screen(0)` or `(1)` everywhere, set default:
-
-```python
-def clear_screen(delay=0.5):
-    time.sleep(delay)
-    os.system('cls' if os.name == 'nt' else 'clear')
-```
-
-Now you can just call `clear_screen()` normally.
