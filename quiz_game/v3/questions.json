@@ -1,0 +1,47 @@
+[
+    {
+        "q_num":1,
+        "question":"What is 2+2?",
+        "answer":"4",
+        "point":1,
+        "type":"qa"
+    },
+    {
+        "q_num":2,
+        "question":"What is 1+1?",
+        "answer":"2",
+        "point":1,
+        "type":"qa"
+    },
+    {
+        "q_num":3,
+        "question":"What is 20+20?",
+        "answer":"40",
+        "point":1,
+        "type":"qa"
+    },
+    {
+        "q_num":4,
+        "question":"What is the capital of the USA",
+        "options":["Washington DC","Phoneix","Las Vegas"],
+        "answer":"Washington DC",
+        "point":1,
+        "type":"mcq"
+    },
+    {
+        "q_num":5,
+        "question":"What is the capital of India?",
+        "options":["Kerala","Goa","Delhi"],
+        "answer":"Delhi",
+        "point":1,
+        "type":"mcq"
+    },
+    {
+        "q_num":6,
+        "question":"What is the capital of Germany?",
+        "options":["Munich","Berlin","Frankfurt"],
+        "answer":"Berlin",
+        "point":1,
+        "type":"mcq"
+    }
+]
