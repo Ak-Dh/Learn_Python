@@ -35,12 +35,12 @@ Version 3 introduces **data separation** and **improved scalability** with the f
 ## 📁 File Structure
 
 ```
-learn_python
-├──quiz_game/
-    ├──v3/
-        ├── quiz_game.py          # Main Python script to run the game
-        ├── questions.json        # External file containing all quiz questions
-        └── README.md             # Project documentation
+learn_python/
+  ├──quiz_game/
+      ├──v3/
+          ├── quiz_game.py          # Main Python script to run the game
+          ├── questions.json        # External file containing all quiz questions
+          └── README.md             # Project documentation
 ```
 
 ---
