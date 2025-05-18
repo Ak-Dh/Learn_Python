@@ -41,7 +41,7 @@ learn_python
         ├── quiz_game.py          # Main Python script to run the game
         ├── questions.json        # External file containing all quiz questions
         └── README.md             # Project documentation
-    ```
+```
 
 ---
 
